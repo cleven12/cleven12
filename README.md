@@ -74,7 +74,7 @@ I specialize in building reliable backend systems with Django and Flask, while l
 <hr style="border: 1px solid #e1e4e8; margin: 2rem 0;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=600&lines=-----Building+scalable+backend+systems+with+smart+AI-powered+integrations%E2%80%94one+commit+at+a+time." alt="Typing Animation - Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=600&lines=-----Building+scalable+Backend+Systems+With+Smart+AI-Powered+Integrations%E2%80%94One+Commit+At+A+Time." alt="Typing Animation - Quote" />
 </p>
 
 
