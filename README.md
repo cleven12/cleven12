@@ -76,5 +76,3 @@ I specialize in building reliable backend systems with Django and Flask, while l
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=600&lines=-----Building+scalable+Backend+Systems+With+Smart+AI-Powered+Integrations%E2%80%94One+Commit+At+A+Time." alt="Typing Animation - Quote" />
 </p>
-
-
