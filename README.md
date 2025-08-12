@@ -73,33 +73,8 @@ I specialize in building reliable backend systems with Django and Flask, while l
 
 <hr style="border: 1px solid #e1e4e8; margin: 2rem 0;">
 
-<style>
-  .typing-container {
-    display: inline-block;
-    border-right: 2px solid rgba(0,0,0,0.75);
-    white-space: nowrap;
-    overflow: hidden;
-    font-family: monospace;
-    font-size: 1.1rem;
-    animation: typing 6s steps(60, end), blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: rgba(0,0,0,0.75); }
-  }
-</style>
-
 <p align="center">
-  <em>
-    <span class="typing-container">
-      "Building scalable backend systems with smart AI-powered integrations—one commit at a time."
-    </span>
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=600&lines=-----Building+scalable+backend+systems+with+smart+AI-powered+integrations%E2%80%94one+commit+at+a+time." alt="Typing Animation - Quote" />
 </p>
+
 
