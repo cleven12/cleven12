@@ -2,16 +2,16 @@ Cleven
 
 About Me
 
-I'm Cleven, a full-stack developer exploring AI integrations and web security. I build reliable backend systems with Django and Flask, and connect them with frontend frameworks and AI-powered tools.
+I'm Cleven, a full-stack developer specializing in web applications and secure backend systems. I build scalable solutions with Django and connect them with modern frontend frameworks.
 
-  - Backend Expertise: Django, Flask, REST APIs, MySQL, PostgreSQL
-  - Frontend Expertise: React, HTML, CSS
-  - AI & Data Handling: OpenAI, NumPy, Pandas, NLP
-  - Tools & Platforms: Git, GitHub, Linux, Postman, cURL, VS Code
+  - Backend Development: Django, REST APIs, MySQL, PostgreSQL
+  - Frontend Development: React, HTML, CSS
+  - Core Skills: System Design, Database Architecture, Web Security
+  - Tools & Platforms: Git, GitHub, Linux, Postman, VS Code
 
 Featured Projects
-  - Online Election System – A web platform for secure online voting
+  - University Election Platform – A secure online voting system with role-based access
   - E-Commerce Website – Full-stack solution with catalog, cart, and checkout
   - Library Management System – Web app for managing books and users
 
-><i>Always learning and building</i>
+><i>Building reliable solutions</i>
