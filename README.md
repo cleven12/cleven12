@@ -5,7 +5,7 @@ About Me
 I'm Cleven, a full-stack developer specializing in web applications and secure backend systems. I build scalable solutions with Django and connect them with modern frontend frameworks.
 
   - Backend Development: Django, REST APIs, MySQL, PostgreSQL
-  - Frontend Development: React, HTML, CSS
+  - Frontend Development: VueJS, HTML, CSS
   - Core Skills: System Design, Database Architecture, Web Security
   - Tools & Platforms: Git, GitHub, Linux, Postman, VS Code
 
