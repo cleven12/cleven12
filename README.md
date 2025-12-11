@@ -1,16 +1,10 @@
 # Cleven
 
-Backend web developer building applications with Django.
+Backend dev * Django
 
-## Tech Stack
-- **Backend:** Django, REST APIs, MySQL, PostgreSQL
-- **Frontend:** HTML, CSS
-- **Tools:** Git, Linux, Postman, VS Code
+**Stack:** Django • REST APIs • MySQL • PostgreSQL • HTML/CSS • Git • Linux
 
-## Projects
-- **University Election Platform** – Secure online voting system with role-based access control
-- **E-Commerce Website** – Full-stack application with product catalog, cart, and checkout flow
-- **Library Management System** – Web application for book and user management
+**Projects:** University Election Platform * E-Commerce Site * Library Management System
 
 ---
-*Building web solutions one commit at a time*
+*code. build. repeat.*
