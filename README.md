@@ -1,17 +1,16 @@
-Cleven
+# Cleven
 
-About Me
+Backend web developer building applications with Django.
 
-I'm Cleven, a full-stack developer specializing in web applications and secure backend systems. I build scalable solutions with Django and connect them with modern frontend frameworks.
+## Tech Stack
+- **Backend:** Django, REST APIs, MySQL, PostgreSQL
+- **Frontend:** HTML, CSS
+- **Tools:** Git, Linux, Postman, VS Code
 
-  - Backend Development: Django, REST APIs, MySQL, PostgreSQL
-  - Frontend Development: VueJS, HTML, CSS
-  - Core Skills: System Design, Database Architecture, Web Security
-  - Tools & Platforms: Git, GitHub, Linux, Postman, VS Code
+## Projects
+- **University Election Platform** – Secure online voting system with role-based access control
+- **E-Commerce Website** – Full-stack application with product catalog, cart, and checkout flow
+- **Library Management System** – Web application for book and user management
 
-Featured Projects
-  - University Election Platform – A secure online voting system with role-based access
-  - E-Commerce Website – Full-stack solution with catalog, cart, and checkout
-  - Library Management System – Web app for managing books and users
-
-><i>Building reliable solutions</i>
+---
+*Building web solutions one commit at a time*
