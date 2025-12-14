@@ -1,10 +1,9 @@
-# Cleven
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+  CLEVEN
+  backend | django
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+django • rest • sql
+html/css • git • linux
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
-Backend dev | Django
-
-**Stack:** Django • REST APIs • MySQL • PostgreSQL • HTML/CSS • Git • Linux
-
-**Projects:** University Election Platform * E-Commerce Site * Library Management System
-
----
->>*code. build. repeat.*
+  >> silence is code
