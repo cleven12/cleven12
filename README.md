@@ -1,9 +1,11 @@
-▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-  CLEVEN
-  backend | django
-▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-django • rest • sql
-html/css • git • linux
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+```
++------------------------+
+|  CLEVEN                |
+|  backend | django      |
++------------------------+
+| django • rest • sql    |
+| html/css • git • linux |
++------------------------+
+```
 
-  >> silence is code
+    >> silence is code
