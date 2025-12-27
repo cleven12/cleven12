@@ -1,14 +1,14 @@
 ```
-+------------------------+
-|  CLEVEN                |
-|  backend | django      |
-+------------------------+
-| django • rest • sql    |
-| html/css • git • linux |
-+------------------------+
+            +------------------------+
+            |  CLEVEN                |
+            |  backend | django      |
+            +------------------------+
+            | django • rest • sql    |
+            | html/css • git • linux |
+            +------------------------+
 ```
-```
-    >> Break first, analyze later
+```  
+        >> Break first, analyze later
 ```
 
 
