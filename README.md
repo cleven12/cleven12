@@ -44,6 +44,6 @@ Hey, I'm Cleven G — a CS student from Tanzania who loves building backend syst
 
 *Break first, analyze later.*
 
-<sub>📍 Kilimanjaro, Tanzania · 💼 Open to remote work · 📧 cleven02@gmail.com</sub>
+<sub>📍 Kilimanjaro, Tanzania · 💼 Open to remote work · 📧 clevengodsontech@gmail.com</sub>
 
 </div>
