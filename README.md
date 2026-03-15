@@ -1,7 +1,7 @@
 <div align="center">
 
 # Cleven G
-### Computer Science Student · Tanzania 🇹🇿
+### CS Student · Tanzania 🇹🇿
 
 ![Visitors](https://komarev.com/ghpvc/?username=cleven12&style=flat-square&color=blue)
 &nbsp;
@@ -75,15 +75,8 @@ Hey, I'm Cleven G — a CS student from Tanzania who loves building backend syst
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=cleven12&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleven12&layout=compact&theme=default&hide_border=true" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=cleven12&theme=default&hide_border=true" height="150"/>
-
----
-
-<sub>📍 Kilimanjaro, Tanzania · 💼 Open to remote work · 📧 clevengodsontech@gmail.com</sub>
-
 *Break first, analyze later.*
+
+<sub>📍 Kilimanjaro, Tanzania · 💼 Open to remote work · 📧 cleven02@gmail.com</sub>
 
 </div>
