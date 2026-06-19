@@ -1,7 +1,7 @@
 <div align="center">
 
 # Cleven G
-### CS Student · Tanzania 🇹🇿
+### CS Major · Tanzania 🇹🇿
 
 ![Visitors](https://komarev.com/ghpvc/?username=cleven12&style=flat-square&color=blue)
 &nbsp;
