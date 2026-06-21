@@ -38,11 +38,32 @@ I'm a CS student who builds backend systems and AI tools for real people and sma
 
 ### 🚀 Featured Projects
 
-| Project | What it does |
-|---------|--------------|
-| 🌍 [**Xenohuru**](https://clevengodson.online/) | Open-source Tanzania tourism API — GPS-accurate attractions + real-time weather |
-| 🏔️ [**Visit Kili Adventures**](https://clevengodson.online/) | Full-stack booking platform with DPO payments & QR-coded tickets |
-| 🗳️ [**MWECAU DigiVote**](https://clevengodson.online/) | Secure digital voting system with role-based access control |
+<div align="center">
+
+<a href="https://github.com/cleven12/visit-kili-adventure">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=visit-kili-adventure&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/cleven12/mwecau_digivote">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=mwecau_digivote&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/cleven12/django_snippe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=django_snippe&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/cleven12/personal-whatsapp-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=personal-whatsapp-ai&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/cleven12/Agentic-SEO-Skill">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=Agentic-SEO-Skill&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/cleven12/multi-agent-tourism">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=multi-agent-tourism&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/cleven12?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repos-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
