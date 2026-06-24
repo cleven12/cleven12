@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://clevengodson.online/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Cleven+Godson;Backend+%26+AI+Engineer;CS+Major+%C2%B7+Tanzania+%F0%9F%87%B9%F0%9F%87%BF;Break+first%2C+analyze+later." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Cleven;Backend+%26+AI+Engineer;CS+Major+%C2%B7+Tanzania+%F0%9F%87%B9%F0%9F%87%BF;Break+first%2C+analyze+later." alt="typing" />
 </a>
 
 ### Backend & AI Engineer · CS Major · Tanzania 🇹🇿
