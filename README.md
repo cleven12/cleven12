@@ -37,29 +37,6 @@ I'm a CS student who builds backend systems and AI tools for real people and sma
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/cleven12/django_snippe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=django_snippe&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/cleven12/personal-whatsapp-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=personal-whatsapp-ai&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/cleven12/Agentic-SEO-Skill">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=Agentic-SEO-Skill&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/cleven12/multi-agent-tourism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=multi-agent-tourism&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/cleven12?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repos-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-
-</div>
-
----
 
 ### 🛠️ Tech Stack
 
