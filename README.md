@@ -41,13 +41,6 @@ I'm a CS student who builds backend systems and AI tools for real people and sma
 
 <div align="center">
 
-<a href="https://github.com/cleven12/visit-kili-adventure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=visit-kili-adventure&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/cleven12/mwecau_digivote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=mwecau_digivote&theme=tokyonight&hide_border=true" />
-</a>
-
 <a href="https://github.com/cleven12/django_snippe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleven12&repo=django_snippe&theme=tokyonight&hide_border=true" />
 </a>
